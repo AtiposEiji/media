@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rufy"
+    },
+    {
+      "name": "Kellie Satterfield",
+      "id": 5
+    },
+    {
+      "name": "Mrs. Tamara Hyatt",
+      "id": 6
+    },
+    {
+      "name": "Johnathan Beier",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 5,
+      "title": "Practical Cotton Mouse",
+      "id": 13
+    },
+    {
+      "userId": 7,
+      "title": "Luxurious Frozen Pants",
+      "id": 15
+    },
+    {
+      "userId": 5,
+      "title": "Electronic Frozen Mouse",
+      "id": 17
+    },
+    {
+      "userId": 6,
+      "title": "Modern Bronze Towels",
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "title": "Tasty Granite Shoes",
+      "id": 23
+    },
+    {
+      "userId": 6,
+      "title": "Ergonomic Plastic Bacon",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Frozen Pants",
+      "id": 25
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/Ve98YXxYD/150/150",
+      "id": 9
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150?lock=1974486079373312",
+      "id": 13
+    },
+    {
+      "albumId": 25,
+      "url": "https://picsum.photos/seed/eAucxmS526/150/150",
+      "id": 16
+    }
+  ]
+}
