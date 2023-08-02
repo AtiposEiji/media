@@ -1,8 +1,10 @@
-# React + Vite
+IN THIS APP I USE ASYNC THUNK FOR USERS AND RTK QUERY FOR ALBUMS AND PHOTOS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ASYNC THUNK ARE SEEN AS SLIGHTLY OLDER AND MORE COMPLICATED TECHNIQUES FOR FETCHING DATA.
 
-Currently, two official plugins are available:
+RTK QUERY IS SEEN AS THE NEWER AND FANCIER WAY TO FETCH DATA.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I SAW THE ASYNC THUNK FUNCTIONS:
+    - I WANTED TO HAVE A WELL-ROUNDED UNDESTANDING OF REDUX TOOLKIT
+    - I WANTED TO HAVE A WELL-ROUNDED UNDESTANDING OF MULTIPLE DATA-FETCHING TECHNIQUES
+    - I WANTED MORE PRACTICE CREATING COMPONENTS AND CUSTOM HOOKS
